@@ -1,1 +1,27 @@
+.chicken-title{
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
 
+.chicken-section{
+background-color: gray;
+padding-right: 15px;
+padding-left: 15px;
+margin-right: auto;
+margin-left: auto;
+
+}
+
+.dropdown-menu{
+    text-align: center;
+
+}
+
+.hr{
+    border: 2px solid black ;
+}
+
+.caret{
+    visibility: hidden;
+}
