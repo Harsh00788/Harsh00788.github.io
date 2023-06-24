@@ -10,6 +10,11 @@ body{
   border:2px solid #000; 
   border-radius: 0;
 }
+
+.chicken-title{
+text-align:center;
+}
+
 .navbar-brand{
   margin-top: 10px;
   padding-top:10px;
