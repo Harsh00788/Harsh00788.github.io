@@ -14,7 +14,9 @@ body{
 .chicken-title{
 text-align:center;
 }
-
+.chicken-section{
+ background-color:#808080;
+}
 .navbar-brand{
   margin-top: 10px;
   padding-top:10px;
